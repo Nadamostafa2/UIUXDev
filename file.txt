@@ -3,4 +3,10 @@ first change
 new change
 new 22
 change from local
-
+Day2 in stage area & committed 
+change
+change 2
+change in testing branch
+change in testing branch 2
+change in main branch
+change in testing branch 3
